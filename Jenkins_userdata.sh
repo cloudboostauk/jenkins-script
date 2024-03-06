@@ -1,3 +1,5 @@
+#Note: This userdata is for Ubuntu AMI, so select Ubuntu as AMI while configuring your EC2
+
 #command to update the OS
 sudo apt-get update -y 
 
